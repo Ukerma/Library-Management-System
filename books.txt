@@ -1,0 +1,5 @@
+The Call of Wild, Jack London, 1903, 120
+The Miser, Moliere, 1668, 145
+Macbeth, William Shakespeare, 1623, 154
+Romeo and Juliet, William Shakespeare, 1597, 133
+Crime and Punishment, Fyodor Dostoyevsky, 1866, 1152
